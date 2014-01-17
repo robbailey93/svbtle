@@ -1,0 +1,159 @@
+
+
+
+	
+body {
+font-size: 62.5%;
+font-family: Helvetica, sans-serif;
+color: #000000;
+margin-top: 0;
+ }
+
+#container {
+width: 100%;
+
+margin: 0 auto;
+
+}
+
+a {
+text-decoration: none;
+color: #797979;
+
+}
+
+a:hover {
+color: #000000;
+font-size: 1.1em;
+
+}
+
+h1 {
+font-size: 3em;
+font-family: Helvetica, sans-serif;
+color: #000000;
+
+}	
+
+h2:hover {
+color: #327CCB;
+
+}
+h2 {
+font-size: 4em;
+font-family: Helvetica, sans-serif;
+color: #000000;
+
+}
+
+h3 {
+font-size: 2.2em;
+font-family: Helvetica, sans-serif;
+color: #327CCB;
+
+}
+
+p {
+font-size: 1.8em;
+font-family: Helvetica, sans-serif;
+color: #797979;
+padding-bottom: 15px;
+word-spacing: 7;
+
+}
+
+.magazine {
+	font-size: 1.3em;
+	font-family: Trebuchet MS, sans-serif;
+	color: #acacac;
+	padding-left: 10px;
+	padding-bottom: 25px;
+}
+
+#leftcol {
+	position: fixed;
+	width: 130px;
+	height: 100%;
+	padding-right:25px;
+	float: left;
+	font-size: 1.4em;
+	color: #eee;
+
+	text-align: right;
+	border-right: 1px #eee solid;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	padding-top: 30px;
+
+	box-sizing: border-box;
+}
+
+#leftcol li {
+	list-style-type: none;
+	padding-bottom: 18px;
+	
+}
+
+#main {
+	padding-left: 170px;
+	width: 65%;
+	padding-right:15px;
+	padding-top: 5px;
+	border-right: 1px #eee solid;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	clear:both;
+	float: left;
+	box-sizing: border-box;
+}
+
+#rightcol {
+	float:right;
+	padding-top: 15px;
+	padding-left: 10px;
+	margin-right: 5%;
+	width:27%;
+	font-size: 1.0em;
+	font-family: Helvetica, sans-serif;
+	color: #000000;
+	box-sizing: border-box;
+}
+
+#rightcol h1 {
+	font-size: 2.3em;
+	font-family: Trebuchet MS, sans-serif;
+	color: #acacac;
+font-weight: bold;
+}
+
+#rightcol h2 {
+font-size: 1.5em;
+font-family: Helvetica, sans-serif;
+color: #797979;
+font-weight: bold;
+}
+
+#rightcol h2:hover {
+color: #327CCB;
+}
+#rightcol h3 {
+font-size: 1.3em;
+font-family: Helvetica, sans-serif;
+color: #327CCB;
+}
+
+#rightcol p {
+font-size: 1.4em;
+font-family: Helvetica, sans-serif;
+color: #797979;
+padding-bottom: 20px;
+}
+
+
+
+
+
+
+
